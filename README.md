@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armaan2104&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armaan2104&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Armaan2104&show_icons=true&theme=radical&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Armaan2104&theme=radical" height="170"/>
 </p>
 
 ---
