@@ -73,8 +73,8 @@
 ## 📫 Connect With Me
 
 - 📧 Email: armaanalikhan9900@gmail.com  
-- 💼 LinkedIn: (Add your LinkedIn link)  
-- 🌐 Portfolio: (Add your portfolio link)
+- 💼 LinkedIn: https://www.linkedin.com/in/armaan2104/  
+- 🌐 Portfolio: Soon...
 
 ---
 
