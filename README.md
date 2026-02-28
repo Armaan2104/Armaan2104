@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Armaan</h1>
-<h3 align="center">💻 Aspiring MERN Stack Developer | CSE Student | Passionate Full Stack Learner</h3>
+<h3 align="center">💻 MERN Stack Developer | 🤖 AI Enthusiast | 🚀 Passionate Full Stack Learner</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student  
-- 🚀 Passionate about Full Stack Development  
+- 💻 Passionate about Full Stack Development  
 - 🌱 Currently mastering the **MERN Stack**
-- 💡 Love building real-world web applications  
-- 🔥 Consistent learner with a growth mindset  
+- 🤖 Exploring Artificial Intelligence & AI-powered applications  
+- 🔥 Love building smart, real-world web applications  
 - 🌍 Aspiring to work as a Software Engineer internationally  
 
 ---
@@ -20,7 +20,7 @@
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
-- React.js (Learning & Building)
+- React.js  
 
 ### ⚙️ Backend
 - Node.js  
@@ -28,6 +28,11 @@
 
 ### 🗄️ Database
 - MongoDB  
+
+### 🤖 AI & Emerging Tech
+- OpenAI API (Learning Integration)
+- AI Chatbot Development
+- REST API Integration
 
 ### 🔧 Tools
 - Git & GitHub  
@@ -50,26 +55,26 @@
 
 🔹 Portfolio Website  
 🔹 To-Do List (Frontend Project)  
-🔹 Webathon Hackathon Project  
-🔹 Upcoming: Full MERN Authentication System  
-🔹 Upcoming: E-commerce MERN Application  
+🔹 Hackathon Web Project  
+🔹 Upcoming: MERN Authentication System  
+🔹 Upcoming: AI-Powered Web Application  
 
 ---
 
 ## 🎯 2026 Goals
 
-- 🔥 Build 10+ Full Stack Projects  
+- 🔥 Build 10+ Full Stack + AI Integrated Projects  
 - 💼 Secure a Paid Internship  
-- 🚀 Master MERN Stack  
-- 🌍 Get an International Developer Opportunity  
+- 🚀 Become Advanced MERN Developer  
+- 🌍 Work on International Tech Projects  
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 Email: armaanalikhan9900@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/armaan2104/  
-- 🌐 Portfolio: SOON....
+- 💼 LinkedIn: (Add your LinkedIn link)  
+- 🌐 Portfolio: (Add your portfolio link)
 
 ---
 
